@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hélio Luiz Monteiro Júnior
 - 👀 I’m interested in Data-Driven Development
-- 🌱 I’m currently learning Data Sciency and Data Science e Data Engineering with Python
+- 🌱 I’m currently learning Data Science e Data Engineering with Python
 - 💞️ I’m looking to collaborate on my work
 - 📫 How to reach me on heliojr.monteiro@yahoo.com.br
 
